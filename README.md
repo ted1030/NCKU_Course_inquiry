@@ -1,1 +1,1 @@
-# NCKU_Course_inquiry
+# NCKU Course inquiry
